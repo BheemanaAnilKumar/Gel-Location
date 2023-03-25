@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   text-align:center;
+   align-items:center;
+}
+.navbar{
+  
+    height: 60px;
+    background-color: black;
+}
+.btn{
+    height:50px;
+    width:200px;
+    color:white;
+    background:blue;
+    border-radius:15px;
+    margin-top:50px;
+    font-weight:600;
+    font-size:20px;
+}
+
+.Buttons{
+    margin-left: 500px;
+    gap:100px;
+    display: flex;
+}
+.mapp{
+    margin-top: 50px;
+}
